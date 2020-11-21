@@ -1,8 +1,5 @@
-#Ignore Test File
+#Ignore Test File that we dont want in the GITHUB repository
 /Gitignore----Test!.docx
-
-
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
